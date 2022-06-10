@@ -1,9 +1,9 @@
 # Econometrics Notes
 
-## Description of this repository
+## Description of the repository
 
 This repository is a collection of my notes from the courses Econometrics A and B.
 
-The notes primarily python code.
+The notes are primarily python code.
 
 
